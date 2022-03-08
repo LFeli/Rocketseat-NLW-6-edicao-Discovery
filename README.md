@@ -1,4 +1,3 @@
-# Rocketseat-NLW-6-edicao-Origin
 <h1>Rocketseat Nlw 6° edição </h1>
 
 <h2>Proposta</h2>
