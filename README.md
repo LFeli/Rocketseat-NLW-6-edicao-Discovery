@@ -22,4 +22,5 @@
 
 <ul>
    <li> Swiper </li>
+   <li> ScrollReveal </li>
 </ul>
