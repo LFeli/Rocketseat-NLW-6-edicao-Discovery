@@ -17,3 +17,9 @@
    <li>CSS 3</li>
    <li>Javascript</li>
 </ul>
+
+<h2> Bibliotecas 📚</h2>
+
+<ul>
+   <li> Swiper </li>
+</ul>
