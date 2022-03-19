@@ -6,7 +6,7 @@
 
 <h2> Links 📎</h2>
 
-  <span>Link para visualizar o projeto : <a target="_blank"></a></span>
+  <span>Link para visualizar o projeto : <a target="_blank">https://lfeli.github.io/Rocketseat-NLW-6-edicao-Origin/</a></span>
   
   <span>Link para o projeto no figma: <a>https://www.figma.com/community/file/1009807319507822993/Origin-Six</a></span>
   
